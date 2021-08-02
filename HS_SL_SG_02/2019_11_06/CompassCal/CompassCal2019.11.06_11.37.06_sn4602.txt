@@ -1,0 +1,24 @@
+Serial Number: 4602
+
+Heading		Pitch		Roll
+317.668207	6.086011	1.433987
+319.701220	4.232004	1.948335
+317.620975	5.892760	1.483000
+320.084909	3.657026	1.685879
+321.026813	4.677450	3.331209
+319.697269	4.737165	0.681978
+318.433364	3.832316	1.741885
+320.184179	4.940669	1.175141
+318.979721	4.828326	1.451486
+318.771611	3.716697	1.741904
+318.887296	5.963097	1.829378
+319.140787	4.095105	1.402481
+Calibration score: M255.00Q0H2V1
+Failed Calibration. Please Repeat Calibration!
+Calibration duration = 1 seconds
+M255.00 = Magnetic influence is unacceptable
+Q0 = Non-uniform magnetic field
+H2 = Incomplete horizontal rotation
+V1 = Low pitch/roll
+Recommendation(s):
+The required duration of the compass calibration is between 1 and 2 minutes.

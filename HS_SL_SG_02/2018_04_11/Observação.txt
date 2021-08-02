@@ -1,0 +1,3 @@
+Medições da tarde com CV <= 5 %
+Medições da manhã com CV >= 5% 
+	com 3 medições ok

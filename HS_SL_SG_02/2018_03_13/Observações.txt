@@ -1,0 +1,1 @@
+CV = 7,1 % com todas medições
